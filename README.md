@@ -61,9 +61,9 @@ Ropsten Retrieval is a smart contract with a simple interface that lets anyone s
 
 
 ## Deployed URL
-https://61cf2781c249291152dcadf9--festive-leavitt-f94ad6.netlify.app
-https://blockchain-developer-bootcamp-final-project2-gbesdhlmi.vercel.app
-https://wandering-credit-3521.on.fleek.co
+- https://61cf2781c249291152dcadf9--festive-leavitt-f94ad6.netlify.app
+- https://blockchain-developer-bootcamp-final-project2-gbesdhlmi.vercel.app
+- https://wandering-credit-3521.on.fleek.co
 
 ## Screencast Link
 https://youtu.be/6redu5Obv-s
