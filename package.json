@@ -1,0 +1,33 @@
+{
+  "name": "Ropsten-Retrieval",
+  "version": "1.0.0",
+  "description": "Safest way to store your links",
+  "main": "./docs/dapp.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./docs/dapp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edawrdtay/blockchain-developer-bootcamp-final-project.git"
+  },
+  "keywords": [
+    "web3"
+  ],
+  "author": "Edward Tay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edwardtay/blockchain-developer-bootcamp-final-project/issues"
+  },
+  "homepage": "https://github.com/edwardtay/blockchain-developer-bootcamp-final-project#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.0",
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "ganache-cli": "^6.12.2",
+    "truffle": "^5.4.22",
+    "web3": "^1.6.1"
+  }
+}
