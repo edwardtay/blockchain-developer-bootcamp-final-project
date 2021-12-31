@@ -9,18 +9,16 @@ https://github.com/edwardtay/blockchain-developer-bootcamp-final-project/
 Ropsten Retrieval is a smart contract with a simple interface that lets anyone store texts on the blockchain. As a proof of concept project, Ropsten Retrieval gives everyone easy access to Ethereum. 
 
 ## Workflow
-
-Buying a message spot:
 	
 1. Connect your Metamask wallet to the website.
 
 2. Change your wallet network to **Ropsten** Test Network
 
-3. Input a description, a link or a message, and the number of days you would like the message to be stored for.
+3. Input a message, and the number of days you would like the message to be stored for.
 
 4. Click the submit message button and pay for the transaction through the Metamask.
 
-5. Input the ID corresponding to your message and click the Retrieve Message button to see your message any time. 
+5. Input the ID corresponding to your message and click the Retrieve Message button to see message. 
 
 ## Running the project locally
 
@@ -61,6 +59,11 @@ Buying a message spot:
 
 5. Change Metamask network to Localhost 8545, then you can start interacting with the contract.
 
+
+## Deployed URL
+https://61cf2781c249291152dcadf9--festive-leavitt-f94ad6.netlify.app
+https://blockchain-developer-bootcamp-final-project2-gbesdhlmi.vercel.app
+https://wandering-credit-3521.on.fleek.co
 
 ## Screencast Link
 https://youtu.be/6redu5Obv-s
